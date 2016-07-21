@@ -1,3 +1,5 @@
 Javac HelloWorld.java
 test
+java world is intereting
+Java
 Java HelloWorld
